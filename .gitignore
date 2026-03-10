@@ -1,0 +1,12 @@
+# Pasta do Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Pasta do Backend
+backend/**/target/
+backend/.idea/
+backend/*.iml
+
+# Arquivos do Sistema
+.DS_Store
+.vscode/
